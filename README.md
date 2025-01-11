@@ -24,11 +24,3 @@ The frontend provides the user interface for interacting with the MRP system. It
 - **Git**
 
 You can access the frontend repository here: [MRP Module Frontend](https://github.com/abdulkadirozyurt/MRPFrontend)
-
-## Getting Started
-To get started with the project, follow these steps:
-
-### Backend
-1. Clone the backend repository:
-   ```bash
-   git clone https://github.com/abdulkadirozyurt/MRPModuleApp
